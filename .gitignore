@@ -1,0 +1,4 @@
+# to ignore these file types in main folder or in subfolders
+.csv
+.xlsx
+.xlsx.xlsx
